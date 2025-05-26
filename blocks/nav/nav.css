@@ -1,0 +1,18 @@
+.section.nav-brand p{
+    font-family: "Times New Roman", Georgia, Serif;
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    border: none;
+    display: block;
+    outline: 0;
+    letter-spacing: 4px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+}
+body{display: none;}
