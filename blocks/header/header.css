@@ -42,6 +42,14 @@ header .nav-brand{
   text-align: center;
   cursor: pointer;
 }
+.nav-brand p:hover{
+    color: #000 !important;
+    background-color: #ccc !important;
+}
+.section.nav-sections li:hover {
+  color: #000 !important;
+  background-color: #ccc !important;
+}
 header .nav-brand p code{
   font-family: "Times New Roman", Georgia, Serif;
 }
